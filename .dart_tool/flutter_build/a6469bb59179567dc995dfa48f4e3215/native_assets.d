@@ -1,0 +1,1 @@
+ C:\\Users\\User\\Desktop\\gizli\\appandroid\\.dart_tool\\flutter_build\\a6469bb59179567dc995dfa48f4e3215\\native_assets.yaml: 
